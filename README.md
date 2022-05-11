@@ -4,10 +4,15 @@ This is a data set from kaggle:https://www.kaggle.com/datasets/harlfoxem/housesa
 <<This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015>>
 column definitions:
 id - Unique ID for each home sold
+
 date - Date of the home sale
+
 price - Price of each home sold
+
 bedrooms - Number of bedrooms
+
 bathrooms - Number of bathrooms, where .5 accounts for a room with a toilet but no shower
+
 sqft_living - Square footage of the apartments interior living space
 sqft_lot - Square footage of the land space
 floors - Number of floors
